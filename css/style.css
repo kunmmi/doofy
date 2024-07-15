@@ -2390,8 +2390,8 @@ textarea.w-select {
     background-color: #AA817F;
     background-position: 50%;
     background-size: cover;
-    padding-top: 40px;
     background-image: url(/img/bh.jpg);
+    padding-top: 40px;
     overflow: visible;
 }
 
@@ -2478,6 +2478,7 @@ textarea.w-select {
     color: #fff;
     background-color: #AA817F;
     padding-bottom: 60px;
+    background-image: url(/img/bhyy.jpg);
     overflow: hidden;
 }
 
@@ -2587,7 +2588,8 @@ textarea.w-select {
 .section-4 {
     background-color: #AA817F;
     background-position: 50%;
-    background-size: cover;
+    background-size: contain;
+    background-image: url(/img/guy.jpeg);
     margin-top: 0;
     padding-top: 40px;
     padding-bottom: 40px;
